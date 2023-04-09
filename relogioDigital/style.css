@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #00AAFF,40%, #181818);
+}
+
+#relogio {
+    height: 100px;
+    width: 99vw;
+    padding-top: 225px;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 200px;
+}
